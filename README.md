@@ -2,3 +2,4 @@
 
 - Desert waterbottle
 - 3D printer for food
+- Solar-powered flashlight that only works in the sun
