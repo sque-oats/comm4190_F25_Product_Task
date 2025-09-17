@@ -14,4 +14,4 @@ Lumina
 - Slogan: "Lumina: Shine Bright. Own the Moment."
 - Descriptive: Don’t let the shadows dictate your confidence. Introducing Lumina – the solar-powered flashlight designed specifically for you.  Finally, a light that’s as powerful as you are, and as discreet as you need it to be.  Lumina shines only when the sun is out, offering a brilliant, unwavering beam to deter unwanted attention and reclaim your space.  Own your power, own your confidence, and let Lumina illuminate your path.
 - Audience: Women
-- $39.99
+- Price: $39.99
